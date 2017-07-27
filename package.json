@@ -1,0 +1,23 @@
+{
+  "name": "pitch",
+  "version": "1.0.0",
+  "description": "pitch.js is a pitch detection library written in JavaScript. It is based on the excellent code used in [performous](http://performous.org). While mainly aimed for human voice, it can also be used with other instruments.",
+  "main": "src/pitch.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wswoodruff/pitch.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wswoodruff/pitch.js/issues"
+  },
+  "homepage": "https://github.com/wswoodruff/pitch.js#readme"
+}
